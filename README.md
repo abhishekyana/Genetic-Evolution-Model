@@ -1,2 +1,2 @@
 # Genetic Evolution Model
-- Genetic Evolution Model notebook
+- Genetic Evolution Model
